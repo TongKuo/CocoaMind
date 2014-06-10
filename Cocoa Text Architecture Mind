@@ -1,5 +1,75 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "There are two text-handling systems in OS X",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Cocoa Text System",
+      "id": 3,
+      "ideas": {
+        "4": {
+          "title": "The four primary text system classes",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Views Layer",
+              "id": 6,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Ruler views,  font and color panels",
+                  "id": 10
+                },
+                "2": {
+                  "title": "Text views",
+                  "id": 13
+                },
+                "3": {
+                  "title": "Text input",
+                  "id": 15
+                }
+              }
+            },
+            "2": {
+              "title": "Controller Layer ",
+              "id": 7,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              },
+              "ideas": {}
+            },
+            "3": {
+              "title": "Storage Layer",
+              "id": 8,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "11": {
+      "title": "Core Text",
+      "id": 5
+    }
+  }
 }
